@@ -29,8 +29,6 @@ export default function App() {
           <nav className="hidden md:flex items-center gap-6 text-sm text-gray-600">
             <a href="#home" className="hover:text-gray-900">Home</a>
             <a href="#features" className="hover:text-gray-900">Features</a>
-            <a href="#pricing" className="hover:text-gray-900">Pricing</a>
-            <button className="btn btn-primary">Launch Editor</button>
           </nav>
         </div>
       </header>
